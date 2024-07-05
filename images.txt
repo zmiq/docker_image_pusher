@@ -4,3 +4,4 @@ xhofe/alist:latest
 lmk123/migpt-server:latest
 nyanmisaka/jellyfin
 allanpk716/chinesesubfinder
+linuxserver/jackett
